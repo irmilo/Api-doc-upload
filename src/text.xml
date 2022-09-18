@@ -1,0 +1,18 @@
+<document>
+  <items>
+    <!--Zero or more repetitions:-->
+      <item>
+              <discountSum>22.00</discountSum>
+              <sum>220.00</sum>
+              <amount>5.00</amount>
+              <productId>ab93505c-de2c-4a66-9b60-9ae5e3f2f052</productId>
+              <productArticle>00003</productArticle>
+              <storeId>1239d270-1bbe-f64f-b7ea-5f00518ef508</storeId>
+      </item>
+  </items>
+  <status>NEW</status>
+  <accountToCode>5.01</accountToCode>
+  <revenueAccountCode>4.01</revenueAccountCode>
+  <documentNumber>api-20test</documentNumber>
+  <dateIncoming>15.09.2022</dateIncoming>
+</document>
