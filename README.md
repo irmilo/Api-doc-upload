@@ -1,4 +1,4 @@
-# Api-doc-upload
+# iiko-api-upload
 
 ## Выгрузка документов на сервер iiko с помощью api.
 
